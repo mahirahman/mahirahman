@@ -17,4 +17,4 @@
 <p align=center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahirahman&show_icons=true" alt="mahirahman" /></p>
 
 <p align=center><b>Contact me</b><br>
-<a href="http://mahi.github.io">Portfolio</a> · <a href="https://www.linkedin.com/in/mahirahman">LinkedIn</a> · <a href="mailto:mahi.rahman@student.uts.edu.au">Email</a></p>
+<a href="http://mahirahman.github.io">Portfolio</a> · <a href="https://www.linkedin.com/in/mahirahman">LinkedIn</a> · <a href="mailto:mahi.rahman@student.uts.edu.au">Email</a></p>
