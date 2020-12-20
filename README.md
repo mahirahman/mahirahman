@@ -4,13 +4,12 @@
 ## About Me
 
 - 🔭 I’m currently working on <a href="https://www.RBX.money">RBXMoney</a>
-- 🌱 I’m currently learning TypeScript
-- 💼 I’m seeking an internship where I can apply my attention to detail, problem solving, leadership skills and technical knowledge in a practical environment 
+- 💼 I’m seeking an internship where I can apply my attention to detail, problem solving, leadership and technical knowledge in a practical environment 
 
 ## Tech Stack
 
-* 💻 Python | Java | JavaScript | HTML5 | CSS3
-* ⚙️ ReactJS | Node.js | NPM | Git/Github
+* 💻 Python | Java | HTML5 | CSS3 | Batch
+* ⚙️ Git/Github
 * 🛢️ PostgreSQL
 
 <p align=center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirahman&layout=compact" alt="mahirahman" /></p>
