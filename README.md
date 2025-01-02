@@ -1,10 +1,6 @@
 Hi there, 👋
 I'm Mahi, I'm a full stack developer and I’m always keen on learning new technologies to write secure and scalable solutions.
 
-I previously founded <a href="https://twitter.com/TF2Ruby">TF2Ruby</a> and recently worked on <a href="https://RBX.money">RBXMoney</a>
-
-Currently working at <a href="https://www.wisetechglobal.com">WiseTech Global</a> as a Software Engineer
-
 ## Tech Stack
 
 * 💻 Python | TypeScript | Java | C/C++ | C#
